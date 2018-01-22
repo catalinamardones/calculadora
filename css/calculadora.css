@@ -1,1 +1,42 @@
-calculadora.css
+body {
+	background-color: #F4ECF7  ;
+
+}
+#calculadora {
+	border: 1px solid black;
+	background-color: #D7BDE2;
+	border-radius: 4%;
+	width: 500px;
+	height: 450px;
+	margin-left: 30%;
+	margin-top: 7%;
+}
+#barra {
+	width: 446px;
+	height: 80px;
+	border: 2px solid black;
+	background-color: #E8DAEF ;
+}
+#elementos {
+	margin:5%;
+	margin-top: 10%;
+
+}
+button {
+	width: 109px;
+    height: 55px;
+    margin-top: 2%;
+    border-radius: 10%;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+    background-color: #AF7AC5;
+}
+.numeros {
+	display: inline-flex;
+}
+#operadores {
+	display: inline-block;
+	width: 110px;
+	
+
+} */
